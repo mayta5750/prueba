@@ -1,2 +1,3 @@
 Pendientes          Responsables
 candido             mayta
+limpiar             casa
